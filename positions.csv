@@ -1,0 +1,15 @@
+section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,Minor Women and Gender Studies,Arizona State University,"Tempe,Az",2016,2020,Focus on the fluidity pf gender and the different perspectives used to view history,NA,NA
+education,TRUE,Minor Sociology,Arizona State University,"Tempe,Az",2016,2020,Focus on the impact of socialization on societal structires,NA,NA
+education,TRUE,"B.S., Psychology",Arizona State University,"Tempe,Az",2016,2020,Study f child psychology,NA,NA
+research_positions,TRUE,Research Assistant,Project Coordinate,Arizona State University,2019,2022,Organized and Created data structres to maintain the integrity of the vast amounts of data being collected,NA,NA
+research_positions,TRUE,Graduate Research Assistant,Color Lab,Arizona State University,2020,2022,Primarily working with the concept of color evoking emotion ,Developed Testing theories for different color combinations,fictional
+research_positions,TRUE,Data Science Researcher,Data Science Lab,Arizona Sate University,2021,2022,Building R Shiny applications in the contexts of wearables and statistics education.,Work primarily done in R Shiny and JHTML (node and d3js).,NA
+industry_positions,TRUE,Engineering Intern - User Experience,Dealer.com,"Burlington, VT",2015,2015,Built internal tool to help analyze and visualize user interaction with back-end products.,NA,fictional
+data_science_writings,TRUE,[Child Study Lab](https://psychology.asu.edu/childstudylab),psychlogy/asu.edu,NA,NA,2023,Child Study Lab,NA,NA
+data_science_writings,TRUE,[Science of Color](https://library.si.edu/exhibition/color-in-a-new-light/science,library.si.com,NA,NA,2020,Science of Color,NA,fictional
+about_me_press,TRUE,[Great paper? Swipe right on the new ‘Tinder for preprints’ app](https://www.sciencemag.org/news/2017/06/great-paper-swipe-right-new-tinder-preprints-app),Science,N/A,2017,2017,Story of the app [Papr](https://jhubiostatistics.shinyapps.io/papr/) made with Jeff Leek and Lucy D’Agostino McGowan.,NA,fictional
+by_me_press,TRUE,[Fe&E INC]( https://www.feeinc.com/),FE&E INC,N/A,NA,2023,The website for private investigations and due diligence resources,NA,fictional
+academic_articles,TRUE,Understanding the relationship between social camouflaging in autism and safety behaviours in social anxiety in autistic and non-autistic adolescents,Journal of Child Psychology and Psychiatry,N/A,2024,2024,"Authored with Jiedi Lei,  Eleanor Leigh,  Tony Charman,  Ailsa Russell, and Matthew J. Hollocks",NA,fictional
+academic_articles,TRUE,"Children with attention, behavior problems earn less money, have less education, poorer health as adults",American Psychological Association,N/A,2023,2023,Authored by Andrew E. Koepp.,NA,fictional
+academic_articles,TRUE,Stress during pregnancy can lead to early maturation of first-born daughters,ScienceDaily,N/A,2024,2024,Contributed Poster. Authored with Yaomin Xu.,NA,fictional
